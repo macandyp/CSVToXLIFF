@@ -1,4 +1,4 @@
-![Logo][https://github.com/macandyp/CSVToXLIFF/blob/master/CSVToXLIFF/Assets.xcassets/AppIcon.appiconset/Icon_128x128%402x.png]
+![Logo](https://github.com/macandyp/CSVToXLIFF/blob/master/CSVToXLIFF/Assets.xcassets/AppIcon.appiconset/Icon_128x128%402x.png)
 # CSVToXLIFF
 
 While there are many XLIFF applications available, there was a very unique scenario that occured within my company: nobody had permission to install any external applications on their Windows machines. They did, however, all have Excel. This application does two things:
