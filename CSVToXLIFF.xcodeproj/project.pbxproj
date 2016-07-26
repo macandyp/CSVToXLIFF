@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		173DE1041D47B19D00D798A0 /* license.md in Sources */ = {isa = PBXBuildFile; fileRef = 173DE1031D47B19D00D798A0 /* license.md */; };
-		173DE1061D47B1A400D798A0 /* readme.md in Sources */ = {isa = PBXBuildFile; fileRef = 173DE1051D47B1A400D798A0 /* readme.md */; };
+		173DE1091D47B5F700D798A0 /* license.md in Sources */ = {isa = PBXBuildFile; fileRef = 173DE1071D47B5F700D798A0 /* license.md */; };
+		173DE10A1D47B5F700D798A0 /* readme.md in Sources */ = {isa = PBXBuildFile; fileRef = 173DE1081D47B5F700D798A0 /* readme.md */; };
 		173E7A151BDE465500462F1C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 173E7A141BDE465500462F1C /* AppDelegate.m */; };
 		173E7A181BDE465500462F1C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 173E7A171BDE465500462F1C /* main.m */; };
 		173E7A1B1BDE465500462F1C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 173E7A1A1BDE465500462F1C /* ViewController.m */; };
@@ -21,8 +21,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		173DE1031D47B19D00D798A0 /* license.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = license.md; sourceTree = "<group>"; };
-		173DE1051D47B1A400D798A0 /* readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
+		173DE1071D47B5F700D798A0 /* license.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = license.md; sourceTree = "<group>"; };
+		173DE1081D47B5F700D798A0 /* readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 		173E7A101BDE465500462F1C /* CSVToXLIFF.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CSVToXLIFF.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		173E7A131BDE465500462F1C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		173E7A141BDE465500462F1C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -55,6 +55,8 @@
 		173E7A071BDE465500462F1C = {
 			isa = PBXGroup;
 			children = (
+				173DE1071D47B5F700D798A0 /* license.md */,
+				173DE1081D47B5F700D798A0 /* readme.md */,
 				173E7A121BDE465500462F1C /* CSVToXLIFF */,
 				173E7A111BDE465500462F1C /* Products */,
 			);
@@ -71,8 +73,6 @@
 		173E7A121BDE465500462F1C /* CSVToXLIFF */ = {
 			isa = PBXGroup;
 			children = (
-				173DE1051D47B1A400D798A0 /* readme.md */,
-				173DE1031D47B19D00D798A0 /* license.md */,
 				173E7A131BDE465500462F1C /* AppDelegate.h */,
 				173E7A141BDE465500462F1C /* AppDelegate.m */,
 				173E7A191BDE465500462F1C /* ViewController.h */,
@@ -176,13 +176,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				173DE1041D47B19D00D798A0 /* license.md in Sources */,
+				173DE1091D47B5F700D798A0 /* license.md in Sources */,
 				17ACBA2F1BF50FBB00F5F085 /* CSVOptionsViewController.m in Sources */,
 				173E7A2B1BDE467300462F1C /* CHCSVParser.m in Sources */,
 				173E7A2C1BDE467300462F1C /* CHCSVParserOptions.swift in Sources */,
 				173E7A1B1BDE465500462F1C /* ViewController.m in Sources */,
 				173E7A181BDE465500462F1C /* main.m in Sources */,
-				173DE1061D47B1A400D798A0 /* readme.md in Sources */,
+				173DE10A1D47B5F700D798A0 /* readme.md in Sources */,
 				173E7A151BDE465500462F1C /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
