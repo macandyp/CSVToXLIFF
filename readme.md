@@ -10,5 +10,5 @@ While there are many XLIFF applications available, there was a very unique scena
 There is quite a bit of work that is needed on the application, but it generally works.
 
 ## Needed
-- [] Better UI/flow for importing CSV for XLIFF conversion
-- [] Handle commas better in original text strings
+- [ ] Better UI/flow for importing CSV for XLIFF conversion
+- [ ] Handle commas better in original text strings
